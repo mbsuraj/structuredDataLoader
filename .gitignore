@@ -1,0 +1,4 @@
+venv/
+src/fileLoader.egg-info
+credentials.ini
+dist/
